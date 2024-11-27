@@ -1,0 +1,53 @@
+Date,Code_APE,Type_Operation,Categorie_Principale,Sous_Categorie,Description,Montant_HT,TVA,Montant_TTC,Base_Calcul_Reduction,Taux_Reduction,Montant_Reduction,Centre_Cout,Subvention_Applicable,Credit_Impot,Type_Paiement
+
+# CHARGES SOCIALES ET RÉDUCTIONS (EX-CICE)
+2024-11-25,70.21Z,REDUCTION_SOCIALE,Charges_Sociales,Direction,Allègement Direction,8333.33,0,8333.33,8333.33,0.0616,513.33,DIR-GEN,JEI,Non,Automatique
+2024-11-25,70.22Z,REDUCTION_SOCIALE,Charges_Sociales,Administration,Allègement Admin,20833.34,0,20833.34,20833.34,0.0616,1283.33,ADM-SAL,Non,Non,Automatique
+2024-11-25,59.11B,REDUCTION_SOCIALE,Charges_Sociales,Production,Allègement Production,16666.68,0,16666.68,16666.68,0.0616,1026.67,PRD-SAL,Non,Non,Automatique
+2024-11-25,62.01Z,REDUCTION_SOCIALE,Charges_Sociales,Tech,Allègement Tech,12500.01,0,12500.01,12500.01,0.0616,770.00,TEC-SAL,Non,Non,Automatique
+2024-11-25,82.30Z,REDUCTION_SOCIALE,Charges_Sociales,Events,Allègement Events,18333.34,0,18333.34,18333.34,0.0616,1129.33,EVT-SAL,Non,Non,Automatique
+
+# DÉPENSES FIXES QUOTIDIENNES
+2024-11-25,70.22Z,OPEX,Locaux,Energie,Électricité (450m²),159.27,31.85,191.12,0,0,0,ADM-CHG,Non,CITE,Prélèvement
+2024-11-25,70.22Z,OPEX,Locaux,Loyer,Quote-part loyer,180.00,36.00,216.00,0,0,0,ADM-LOC,Non,Non,Virement
+2024-11-25,70.21Z,OPEX,Tech,Internet,Fibre + Téléphonie,45.00,9.00,54.00,0,0,0,TEC-COM,Oui,Non,Prélèvement
+2024-11-25,70.22Z,OPEX,Personnel,Restauration,Tickets restaurant,405.00,40.50,445.50,0,0,0,ADM-RES,Non,Non,CB Pro
+
+# DÉPENSES TECH ET R&D
+2024-11-25,62.01Z,OPEX,Tech,Logiciels,Adobe Creative Suite,35.00,7.00,42.00,0,0,0,TEC-LOG,Oui,CII,Prélèvement
+2024-11-25,62.01Z,OPEX,Tech,Cloud,AWS Services,95.00,19.00,114.00,0,0,0,TEC-CLD,Oui,CII,CB Pro
+2024-11-25,62.01Z,OPEX,Tech,SaaS,Outils collaboration,25.00,5.00,30.00,0,0,0,TEC-LOG,Oui,CII,Prélèvement
+2024-11-25,70.21Z,OPEX,R&D,Innovation,Développement prototype,400.00,80.00,480.00,0,0,0,RD-PROTO,Oui,CIR,Virement
+2024-11-25,62.01Z,OPEX,R&D,Tech,Tests technologies,250.00,50.00,300.00,0,0,0,RD-TECH,Oui,CII,CB Pro
+
+# PRODUCTION MÉDIAS
+2024-11-25,59.11B,OPEX,Production,Matériel,Location équipements,350.00,70.00,420.00,0,0,0,PRD-EQP,Oui,Non,CB Pro
+2024-11-25,59.11B,OPEX,Production,Consommables,Accessoires production,75.00,15.00,90.00,0,0,0,PRD-CSM,Non,Non,CB Pro
+2024-11-25,59.11B,OPEX,Production,Logistique,Transport matériel,120.00,24.00,144.00,0,0,0,PRD-LOG,Non,Non,CB Pro
+
+# MARKETING ET COMMUNICATION
+2024-11-25,70.21Z,OPEX,Marketing,Digital,Google Ads,165.00,33.00,198.00,0,0,0,MKT-DIG,Oui,Non,CB Pro
+2024-11-25,70.21Z,OPEX,Marketing,Social,Réseaux sociaux,85.00,17.00,102.00,0,0,0,MKT-SOC,Oui,Non,CB Pro
+2024-11-25,70.21Z,OPEX,Marketing,Influence,Campagne influenceurs,200.00,40.00,240.00,0,0,0,MKT-INF,Oui,Non,Virement
+
+# ÉVÉNEMENTIEL
+2024-11-25,82.30Z,OPEX,Event,Location,Espace événementiel,450.00,90.00,540.00,0,0,0,EVT-LOC,Oui,Non,Virement
+2024-11-25,82.30Z,OPEX,Event,Catering,Service traiteur,250.00,50.00,300.00,0,0,0,EVT-CAT,Non,Non,CB Pro
+2024-11-25,82.30Z,OPEX,Event,Tech,Support technique,180.00,36.00,216.00,0,0,0,EVT-TEC,Oui,Non,CB Pro
+
+# FORMATION ET DÉVELOPPEMENT
+2024-11-25,70.22Z,OPEX,Formation,Personnel,Formation continue,195.00,39.00,234.00,0,0,0,ADM-FOR,Oui,Non,Virement
+2024-11-25,70.22Z,OPEX,Formation,Direction,Formation management,250.00,50.00,300.00,0,0,0,ADM-FOR,Oui,Non,Virement
+
+# ADMINISTRATION ET SERVICES
+2024-11-25,70.22Z,OPEX,Admin,Fournitures,Fournitures bureau,45.00,9.00,54.00,0,0,0,ADM-FST,Non,Non,CB Pro
+2024-11-25,70.22Z,OPEX,Admin,Services,Services bancaires,15.00,3.00,18.00,0,0,0,ADM-BNQ,Non,Non,Prélèvement
+2024-11-25,70.22Z,OPEX,Admin,Assurance,Quote-part assurances,25.00,0.00,25.00,0,0,0,ADM-ASS,Non,Non,Prélèvement
+
+# INVESTISSEMENTS
+2024-11-25,59.11B,CAPEX,Équipement,Production,Caméra pro,1250.00,250.00,1500.00,0,0,0,PRD-EQP,Oui,Non,Virement
+2024-11-25,62.01Z,CAPEX,Équipement,Tech,Stations travail,833.33,166.67,1000.00,0,0,0,TEC-EQP,Oui,CII,Virement
+
+# EXONÉRATIONS SPÉCIALES
+2024-11-25,70.21Z,REDUCTION_SOCIALE,Charges_Sociales,Innovation,Réduction JEI,25000.00,0,25000.00,25000.00,0.80,20000.00,RD-SAL,JEI,Non,Automatique
+2024-11-25,70.21Z,REDUCTION_SOCIALE,Charges_Sociales,Apprentissage,Exonération apprentis,3333.33,0,3333.33,3333.33,1.00,3333.33,APR-SAL,Non,Non,Automatique

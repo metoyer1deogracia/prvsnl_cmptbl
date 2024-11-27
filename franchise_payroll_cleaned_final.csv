@@ -1,0 +1,13 @@
+id_poste,pole,poste,code_ape_principal,type_contrat,salaire_brut_mensuel,salaire_brut_annuel,taux_charges,cout_total_annuel,statut,niveau_convention,convention_collective,temps_travail,localisation,type_structure,version
+BUR-001,Bureau Associatif,Président,70.21Z,MANDAT,1666.67,20000.04,1.2,24000.05,Bénévole Indemnisé,,,Temps Plein,La Rochelle,Association,1.0
+BUR-002,Bureau Associatif,Trésorier,70.21Z,MANDAT,1250.0,15000.0,1.2,18000.0,Bénévole Indemnisé,,,Temps Plein,La Rochelle,Association,1.0
+BUR-003,Bureau Associatif,Secrétaire,70.21Z,MANDAT,1250.0,15000.0,1.2,18000.0,Bénévole Indemnisé,,,Temps Plein,La Rochelle,Association,1.0
+DIR-001,Direction Centrale,Directeur Général,70.21Z,CDI,4166.67,50000.04,1.42,71000.06,Cadre Dirigeant,Niveau 1,Syntec,Temps Plein,La Rochelle,Association,1.0
+ORG-001,Organisation,Responsable Organisation,70.21Z,CDI,3333.33,39999.96,1.42,56799.94,Cadre,Niveau 2,Syntec,Temps Plein,La Rochelle,Association,1.0
+PRG-001,Programmation,Responsable Programmation Senior,70.21Z,CDI,3750.0,45000.0,1.42,63900.0,Cadre,Niveau 3,Syntec,Temps Plein,La Rochelle,Association,1.0
+PRG-002,Programmation,Responsable Programmation Junior,70.21Z,CDI,3333.33,39999.96,1.42,56799.94,Cadre,Niveau 3,Syntec,Temps Plein,La Rochelle,Association,1.0
+PRO-001,Production,Responsable Production Senior,59.11B,CDI,3750.0,45000.0,1.42,63900.0,Cadre,Niveau 3,Syntec,Temps Plein,La Rochelle,Association,1.0
+PRO-002,Production,Responsable Production,59.11B,CDI,3333.33,39999.96,1.42,56799.94,Cadre,Niveau 3,Syntec,Temps Plein,La Rochelle,Association,1.0
+PRO-003,Production,Responsable Production Junior,59.11B,CDI,3166.67,38000.04,1.42,53960.06,Cadre,Niveau 3,Syntec,Temps Plein,La Rochelle,Association,1.0
+COM-001,Communication,Responsable Communication Senior,70.21Z,CDI,3750.0,45000.0,1.42,63900.0,Cadre,Niveau 3,Syntec,Temps Plein,La Rochelle,Association,1.0
+COM-002,Communication,Responsable Communication,70.21Z,CDI,3333.33,39999.96,1.42,56799.94,Cadre,Niveau 3,Syntec,Temps Plein,La Rochelle,Association,1.0

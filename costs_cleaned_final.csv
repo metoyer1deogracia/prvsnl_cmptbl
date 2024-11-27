@@ -1,0 +1,20 @@
+Fournisseur,Produit,Prix Unitaire (€),Quantité,Prix Total (€),code_ape,date_creation,derniere_maj,version,statut,Catégorie
+Logiciels,Adobe Creative Cloud,720,1,720,62.01Z,2024-11-17,2024-11-17,1.0,actif,Tech & Développement
+Logiciels,Final Cut Pro,299,1,299,59.11B,2024-11-17,2024-11-17,1.0,actif,Production & Média
+Logiciels,SketchUp Pro,299,1,299,62.01Z,2024-11-17,2024-11-17,1.0,actif,Tech & Développement
+Logiciels,Twinmotion,499,1,499,62.01Z,2024-11-17,2024-11-17,1.0,actif,Tech & Développement
+Stockage et Hébergement,AWS S3,276,1,276,62.01Z,2024-11-17,2024-11-17,1.0,actif,Tech & Développement
+Stockage et Hébergement,iCloud+ 2 To,120,1,120,62.01Z,2024-11-17,2024-11-17,1.0,actif,Tech & Développement
+Cloud Computing,AWS EC2 Instances,3180,1,3180,62.01Z,2024-11-17,2024-11-17,1.0,actif,Tech & Développement
+Cloud Computing,Frame.io,1800,1,1800,59.11B,2024-11-17,2024-11-17,1.0,actif,Production & Média
+Marketing,Campagnes Publicité,12000,1,12000,70.21Z,2024-11-17,2024-11-17,1.0,actif,Marketing & Communication
+Marketing,Influenceurs,6000,1,6000,70.21Z,2024-11-17,2024-11-17,1.0,actif,Marketing & Communication
+CRM,Salesforce CRM,1080,1,1080,70.22Z,2024-11-17,2024-11-17,1.0,actif,Gestion & Administration
+CRM,HubSpot CRM,1080,1,1080,70.22Z,2024-11-17,2024-11-17,1.0,actif,Gestion & Administration
+Assurances,Responsabilité Civile,1800,1,1800,70.22Z,2024-11-17,2024-11-17,1.0,actif,Gestion & Administration
+Assurances,Conformité Légale,450,1,450,70.22Z,2024-11-17,2024-11-17,1.0,actif,Gestion & Administration
+Formation,Formation vidéo,300,2,600,82.30Z,2024-11-17,2024-11-17,1.0,actif,Formation & Events
+Formation,Formation outils,300,1,300,82.30Z,2024-11-17,2024-11-17,1.0,actif,Formation & Events
+Services,Électricité (450 m²),4778,1,4778,70.22Z,2024-11-17,2024-11-17,1.0,actif,Services Généraux
+Services,Eau (450 m²),1354,1,1354,70.22Z,2024-11-17,2024-11-17,1.0,actif,Services Généraux
+Immobilier,Loyer Locaux (450 m²),4500,12,54000,70.22Z,2024-11-17,2024-11-17,1.0,actif,Services Généraux

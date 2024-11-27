@@ -1,0 +1,21 @@
+id_poste,pole,poste,code_ape_principal,salaire_brut_mensuel,salaire_brut_annuel,taux_charges,cout_total_annuel,statut,niveau_convention,convention_collective,temps_travail,localisation,repartition_secondaire
+PRE-001,Direction Générale,Président SASU,70.21Z,8333.33,99999.96,1.42,141999.94,Cadre Dirigeant,Niveau 1,Syntec,Temps Plein,La Rochelle,"70.21Z:60,70.22Z:20,62.01Z:10,59.11B:5,82.30Z:5"
+DIR-001,Direction Centrale,Directeur Central,70.21Z,6250.0,75000.0,1.42,106500.0,Cadre Dirigeant,Niveau 1,Syntec,Temps Plein,La Rochelle,"70.21Z:60,70.22Z:20,62.01Z:10,59.11B:5,82.30Z:5"
+DIV-001,Divertissement,Directeur Divertissement,70.21Z,5833.33,69999.96,1.42,99399.94,Cadre,Niveau 2,Syntec,Temps Plein,La Rochelle,100
+DIV-002,Divertissement,Responsable NFT,70.21Z,4166.67,50000.04,1.42,71000.06,Cadre,Niveau 3,Syntec,Temps Plein,La Rochelle,100
+DIV-003,Divertissement,Responsable Marketing,70.21Z,4166.67,50000.04,1.42,71000.06,Cadre,Niveau 3,Syntec,Temps Plein,La Rochelle,100
+DIV-004,Divertissement,Responsable Events,70.21Z,4166.67,50000.04,1.42,71000.06,Cadre,Niveau 3,Syntec,Temps Plein,La Rochelle,100
+ADM-001,Administration,Directeur Administration,70.22Z,5833.33,69999.96,1.42,99399.94,Cadre,Niveau 2,Syntec,Temps Plein,La Rochelle,100
+ADM-002,Administration,Responsable RH,70.22Z,4166.67,50000.04,1.42,71000.06,Cadre,Niveau 3,Syntec,Temps Plein,La Rochelle,100
+ADM-003,Administration,Responsable Tech,70.22Z,4166.67,50000.04,1.42,71000.06,Cadre,Niveau 3,Syntec,Temps Plein,La Rochelle,100
+ADM-004,Administration,Responsable Communication,70.22Z,4166.67,50000.04,1.42,71000.06,Cadre,Niveau 3,Syntec,Temps Plein,La Rochelle,100
+ADM-005,Administration,Responsable Finance,70.22Z,4166.67,50000.04,1.42,71000.06,Cadre,Niveau 3,Syntec,Temps Plein,La Rochelle,100
+TOU-001,Tourisme,Directeur Tourisme,82.30Z,5833.33,69999.96,1.42,99399.94,Cadre,Niveau 2,Syntec,Temps Plein,La Rochelle,100
+TOU-002,Tourisme,Responsable Events,82.30Z,4166.67,50000.04,1.42,71000.06,Cadre,Niveau 3,Syntec,Temps Plein,La Rochelle,100
+TOU-003,Tourisme,Responsable Digital,82.30Z,4166.67,50000.04,1.42,71000.06,Cadre,Niveau 3,Syntec,Temps Plein,La Rochelle,100
+TOU-004,Tourisme,Responsable Services,82.30Z,4166.67,50000.04,1.42,71000.06,Cadre,Niveau 3,Syntec,Temps Plein,La Rochelle,100
+MUL-001,Multimédia,Directeur Multimédia,59.11B,5833.33,69999.96,1.42,99399.94,Cadre,Niveau 2,Syntec,Temps Plein,La Rochelle,100
+MUL-002,Multimédia,Responsable Production,59.11B,4166.67,50000.04,1.42,71000.06,Cadre,Niveau 3,Syntec,Temps Plein,La Rochelle,100
+MUL-003,Multimédia,Responsable Studio,59.11B,4166.67,50000.04,1.42,71000.06,Cadre,Niveau 3,Syntec,Temps Plein,La Rochelle,100
+MUL-004,Multimédia,Responsable Technique,59.11B,4166.67,50000.04,1.42,71000.06,Cadre,Niveau 3,Syntec,Temps Plein,La Rochelle,100
+MUL-005,Multimédia,Responsable Post-production,59.11B,4166.67,50000.04,1.42,71000.06,Cadre,Niveau 3,Syntec,Temps Plein,La Rochelle,100
